@@ -1,2 +1,3 @@
 name=input("Enter a name")
 print(f"Hello {name} Welcome to python Devopes lab")
+print(f"welcome to kle tech")
